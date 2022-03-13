@@ -1,2 +1,2 @@
 # pi_desktop
-#### Desenvolvimento de Softwares: Cadastro simples de alunos e Gestão de Clientes.
+#### Desenvolvimento de softwares: Cadastro simples de alunos e gestão de clientes.
